@@ -116,3 +116,7 @@ This project demonstrates the following skills:
 *   Managing dependencies with `requirements.txt`.
 *   Using Git for version control.
 *   Providing documentation with README.md.
+
+## Development Notes
+
+This project was developed with the assistance of an AI agent, reflecting a "vibe coding" approach and the capabilities of agentic AI in software development, for testing purpose.
